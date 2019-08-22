@@ -15,8 +15,8 @@
    viewBox="0 0 1920 1080"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="buttons2.svg">
+   inkscape:version="0.92.2pre0 650254f, 2017-08-06"
+   sodipodi:docname="buttons.svg">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -233,9 +233,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="601.46251"
-     inkscape:cy="596.51914"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="624.50825"
+     inkscape:cy="546.86411"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -256,7 +256,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -926,27 +926,5 @@
            style="display:inline;fill:#46423b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.61824143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
     </a>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="832.11969"
-       y="473.8812"
-       id="text1547"><tspan
-         style="font-size:9.05771255px;line-height:1.25"
-         sodipodi:role="line"
-         id="tspan1545"
-         x="832.11969"
-         y="473.8812">javascript:toggleSlideIndex()</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="827.73975"
-       y="458.31747"
-       id="text1551"><tspan
-         style="font-size:24.63832283px;line-height:1.25"
-         sodipodi:role="line"
-         id="tspan1549"
-         x="827.73975"
-         y="458.31747">index</tspan></text>
   </g>
 </svg>
